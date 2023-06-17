@@ -1,11 +1,16 @@
 import './Hero.css';
 
-function Hero() {
+function Hero(props) {
     return (
         <div className="Hero-card">
-            <img src="../images/batman.jpeg" alt="batman" />
+            <img className="img" src={props.pic} alt={props.name} />
+            <div className='Title'>{props.name}</div>
+            <div className="Description">
+                <div><span className="Subtitle">Вселенная</span>: {props.universe}</div>
+                <div><span className="Subtitle">Род деятельности:</span>: {props.actions}</div>
+                <div><span className="Subtitle">Суперспособности</span>: {props.superpower}</div>
+            </div>
         </div>
-
     );
 }
 
