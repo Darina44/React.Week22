@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       {
-        heroes.map((hero, index) =>
-          <Hero key={index} pic={hero.pic} name={hero.name} universe={hero.universe} actions={hero.actions} superpower={hero.superpower} />
+        heroes.map((hero) =>
+          <Hero key={hero.id} pic={hero.pic} name={hero.name} universe={hero.universe} actions={hero.actions} superpower={hero.superpower} />
         )
       }
     </div>
