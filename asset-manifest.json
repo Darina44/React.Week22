@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React.Week22/static/css/main.cfe53a6e.css",
-    "main.js": "/React.Week22/static/js/main.3293b59d.js",
+    "main.js": "/React.Week22/static/js/main.5007d8cf.js",
     "static/js/787.28cb0dcd.chunk.js": "/React.Week22/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/React.Week22/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React.Week22/index.html",
     "main.cfe53a6e.css.map": "/React.Week22/static/css/main.cfe53a6e.css.map",
-    "main.3293b59d.js.map": "/React.Week22/static/js/main.3293b59d.js.map",
+    "main.5007d8cf.js.map": "/React.Week22/static/js/main.5007d8cf.js.map",
     "787.28cb0dcd.chunk.js.map": "/React.Week22/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe53a6e.css",
-    "static/js/main.3293b59d.js"
+    "static/js/main.5007d8cf.js"
   ]
 }
