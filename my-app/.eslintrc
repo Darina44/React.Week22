@@ -4,7 +4,6 @@
         "react-app/jest"
     ],
     "rules": {
-        "no-used-vars": "warn",
         "no-console": "warn",
         "prefer-const": "error",
         "indent": [
