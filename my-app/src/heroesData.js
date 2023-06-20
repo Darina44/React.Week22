@@ -1,6 +1,6 @@
 const heroes = [
     {
-        pic: "../public/batman.jpeg",
+        pic: "/public/batman.jpeg",
         name: "Бэтмен",
         universe: "DC Comics",
         actions: "борец с преступностью, филантроп, миллиардер",
